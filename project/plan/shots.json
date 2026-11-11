@@ -1,0 +1,6367 @@
+{
+ "title": "Why Did the B-36 Need Ten Engines?",
+ "aircraft": "b36",
+ "next": "b52",
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.86,
+   "type": "flight",
+   "section": "COLD OPEN",
+   "w0": 0,
+   "w1": 5,
+   "text": "This is the Convair B-36 Peacemaker,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 155,
+     "el": 8,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 145,
+     "el": 9,
+     "dist": 1.45
+    }
+   },
+   "world": {
+    "ground": "hills",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.86,
+   "end": 5.28,
+   "type": "flight",
+   "section": "COLD OPEN",
+   "w0": 6,
+   "w1": 11,
+   "text": "the largest piston-engine bomber ever built,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 30,
+     "el": 4,
+     "dist": 1.8
+    },
+    "to": {
+     "az": 40,
+     "el": 5,
+     "dist": 1.6
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s003",
+   "start": 5.28,
+   "end": 9.29,
+   "type": "hangar",
+   "section": "COLD OPEN",
+   "w0": 12,
+   "w1": 19,
+   "text": "and the only mass-produced aircraft with ten engines.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 2.49
+    }
+   ]
+  },
+  {
+   "id": "s004",
+   "start": 9.29,
+   "end": 12.74,
+   "type": "title",
+   "section": "COLD OPEN",
+   "w0": 20,
+   "w1": 28,
+   "text": "Six propellers turned at the back of its wings.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   },
+   "caption": "Six turning, four burning"
+  },
+  {
+   "id": "s005",
+   "start": 12.74,
+   "end": 15.1,
+   "type": "archival",
+   "section": "COLD OPEN",
+   "w0": 29,
+   "w1": 33,
+   "text": "Four jets burned beneath them.",
+   "media": {
+    "file": "media/photos/rb36d-jets-flight.jpg",
+    "kenburns": {
+     "from": [
+      0.5,
+      0.5,
+      1.0
+     ],
+     "to": [
+      0.5,
+      0.45,
+      1.08
+     ]
+    }
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s006",
+   "start": 15.1,
+   "end": 17.73,
+   "type": "hangar",
+   "section": "COLD OPEN",
+   "w0": 34,
+   "w1": 41,
+   "text": "And it never dropped a bomb in anger.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s007",
+   "start": 17.73,
+   "end": 21.8,
+   "type": "flight",
+   "section": "COLD OPEN",
+   "w0": 42,
+   "w1": 53,
+   "text": "The Peacemaker was built to fly from America to Europe and back",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 95,
+     "el": 2,
+     "dist": 2.2
+    },
+    "to": {
+     "az": 88,
+     "el": 3,
+     "dist": 2.0
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s008",
+   "start": 21.8,
+   "end": 25.42,
+   "type": "flight",
+   "section": "COLD OPEN",
+   "w0": 54,
+   "w1": 62,
+   "text": "without refueling, carrying the largest bombs in the arsenal,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 210,
+     "el": 18,
+     "dist": 1.5
+    },
+    "to": {
+     "az": 200,
+     "el": 16,
+     "dist": 1.4
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s009",
+   "start": 25.42,
+   "end": 28.63,
+   "type": "flight",
+   "section": "COLD OPEN",
+   "w0": 63,
+   "w1": 71,
+   "text": "at altitudes no fighter of its day could reach.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "distant",
+    "from": {
+     "az": 100,
+     "el": 4,
+     "dist": 3.0,
+     "fov": 9
+    },
+    "to": {
+     "az": 95,
+     "el": 5,
+     "dist": 2.9,
+     "fov": 9
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s010",
+   "start": 28.63,
+   "end": 32.36,
+   "type": "hangar",
+   "section": "COLD OPEN",
+   "w0": 72,
+   "w1": 82,
+   "text": "But getting there took a compromise so strange that crews gave",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 92,
+     "el": 4,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 82,
+     "el": 6,
+     "dist": 1.1
+    }
+   }
+  },
+  {
+   "id": "s011",
+   "start": 32.36,
+   "end": 35.61,
+   "type": "flight",
+   "section": "COLD OPEN",
+   "w0": 83,
+   "w1": 89,
+   "text": "it a slogan: six turning, four burning.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 120,
+     "el": -12,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 110,
+     "el": -10,
+     "dist": 1.5
+    }
+   },
+   "world": {
+    "ground": "mountains",
+    "time": "morning"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s012",
+   "start": 35.61,
+   "end": 39.04,
+   "type": "archival",
+   "section": "COLD OPEN",
+   "w0": 90,
+   "w1": 98,
+   "text": "Why would anyone build an airplane with ten engines?",
+   "media": {
+    "file": "media/photos/b36b-flight-1949.jpg",
+    "kenburns": {
+     "from": [
+      0.5,
+      0.5,
+      1.0
+     ],
+     "to": [
+      0.45,
+      0.5,
+      1.08
+     ]
+    }
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s013",
+   "start": 39.04,
+   "end": 42.43,
+   "type": "hangar",
+   "section": "COLD OPEN",
+   "w0": 99,
+   "w1": 109,
+   "text": "The answer starts with a problem no one had solved before.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s014",
+   "start": 42.43,
+   "end": 46.64,
+   "type": "archival",
+   "section": "THE PROBLEM",
+   "w0": 110,
+   "w1": 119,
+   "text": "It is 1941, and Britain is fighting for its life.",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 310
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s015",
+   "start": 46.64,
+   "end": 51.22,
+   "type": "flight",
+   "section": "THE PROBLEM",
+   "w0": 120,
+   "w1": 131,
+   "text": "German armies have overrun most of Europe, and American planners are asking",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 155,
+     "el": 8,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 145,
+     "el": 9,
+     "dist": 1.45
+    }
+   },
+   "world": {
+    "ground": "farmland",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s016",
+   "start": 51.22,
+   "end": 58.12,
+   "type": "map",
+   "section": "THE PROBLEM",
+   "w0": 132,
+   "w1": 149,
+   "text": "a frightening question. What if Britain falls? The United States would have no air bases close to Germany,",
+   "style": "paper",
+   "bounds": [
+    -100,
+    20,
+    35,
+    68
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -35,
+      46
+     ],
+     "width_km": 6500,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -15,
+      50
+     ],
+     "width_km": 4200,
+     "tilt": 8
+    }
+   },
+   "cities": [
+    {
+     "name": "New York",
+     "lon": -74.0,
+     "lat": 40.71
+    },
+    {
+     "name": "London",
+     "lon": -0.13,
+     "lat": 51.51,
+     "capital": true
+    },
+    {
+     "name": "Berlin",
+     "lon": 13.4,
+     "lat": 52.52,
+     "capital": true
+    }
+   ],
+   "routes": [
+    {
+     "from": [
+      -74.0,
+      40.71
+     ],
+     "to": [
+      13.4,
+      52.52
+     ],
+     "arc": 0.12,
+     "icon": "bomber",
+     "style": "dashed",
+     "draw": [
+      0.5,
+      5.5
+     ],
+     "label": "No bases in range",
+     "labelAt": [
+      -35,
+      48
+     ]
+    }
+   ],
+   "seas": [
+    {
+     "name": "North\nAtlantic Ocean",
+     "lon": -40,
+     "lat": 40,
+     "size": 1.4
+    }
+   ],
+   "focus": [
+    "United Kingdom",
+    "Germany"
+   ]
+  },
+  {
+   "id": "s017",
+   "start": 58.12,
+   "end": 61.57,
+   "type": "hangar",
+   "section": "THE PROBLEM",
+   "w0": 150,
+   "w1": 158,
+   "text": "and no bomber in existence could fly from America,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 60,
+     "el": 50,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 75,
+     "el": 54,
+     "dist": 1.0
+    }
+   }
+  },
+  {
+   "id": "s018",
+   "start": 61.57,
+   "end": 64.9,
+   "type": "flight",
+   "section": "THE PROBLEM",
+   "w0": 159,
+   "w1": 167,
+   "text": "strike a target in Europe, and come home again.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 30,
+     "el": 4,
+     "dist": 1.8
+    },
+    "to": {
+     "az": 40,
+     "el": 5,
+     "dist": 1.6
+    }
+   },
+   "world": {
+    "ground": "hills",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s019",
+   "start": 64.9,
+   "end": 72.9,
+   "type": "board",
+   "section": "THE PROBLEM",
+   "w0": 168,
+   "w1": 191,
+   "text": "The Army Air Corps wrote down what that bomber would have to do. It would need to carry about 4,500 kilograms of bombs over",
+   "items": [
+    {
+     "type": "text",
+     "text": "THE REQUIREMENT",
+     "x": 800,
+     "y": 110,
+     "size": 64,
+     "align": "center",
+     "at": 0.2
+    },
+    {
+     "type": "line",
+     "pts": [
+      [
+       350,
+       160
+      ],
+      [
+       1250,
+       160
+      ]
+     ],
+     "color": "black",
+     "width": 3,
+     "at": 0.3
+    },
+    {
+     "type": "icon",
+     "kind": "bomber",
+     "x": 800,
+     "y": 660,
+     "size": 320,
+     "color": "black",
+     "fill": "black",
+     "outline": "black",
+     "at": 0.3
+    },
+    {
+     "type": "counter",
+     "x": 800,
+     "y": 400,
+     "value": 4500,
+     "from": 0,
+     "unit": "kg",
+     "size": 110,
+     "color": "red",
+     "at": 4.81
+    },
+    {
+     "type": "text",
+     "text": "OF BOMBS",
+     "x": 800,
+     "y": 540,
+     "size": 46,
+     "align": "center",
+     "at": 4.81
+    }
+   ]
+  },
+  {
+   "id": "s020",
+   "start": 72.9,
+   "end": 76.3,
+   "type": "hangar",
+   "section": "THE PROBLEM",
+   "w0": 192,
+   "w1": 196,
+   "text": "10,400 nautical miles without refueling,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "value": 10400.0,
+     "unit": "nmi",
+     "icon": "range",
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "s021",
+   "start": 76.3,
+   "end": 79.96,
+   "type": "flight",
+   "section": "THE PROBLEM",
+   "w0": 197,
+   "w1": 202,
+   "text": "at 390 knots, above 45,000 feet.",
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 155,
+     "el": 12,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 145,
+     "el": 13,
+     "dist": 1.45
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 110,
+    "bank": 3,
+    "climb": 4
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "stat",
+     "icon": "speed",
+     "at": 0.07,
+     "value": 390,
+     "unit": "kn",
+     "pos": "upper"
+    },
+    {
+     "type": "stat",
+     "icon": "altitude",
+     "at": 1.71,
+     "value": 45000,
+     "unit": "ft",
+     "imperialFirst": true
+    }
+   ]
+  },
+  {
+   "id": "s022",
+   "start": 79.96,
+   "end": 83.27,
+   "type": "flight",
+   "section": "THE PROBLEM",
+   "w0": 203,
+   "w1": 211,
+   "text": "No aircraft had ever come close to those numbers.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 95,
+     "el": 2,
+     "dist": 2.2
+    },
+    "to": {
+     "az": 88,
+     "el": 3,
+     "dist": 2.0
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s023",
+   "start": 83.27,
+   "end": 87.92,
+   "type": "map",
+   "section": "THE PROBLEM",
+   "w0": 212,
+   "w1": 222,
+   "text": "The largest bombers of the day, the B-17 Flying Fortress and",
+   "style": "paper",
+   "bounds": [
+    -20,
+    43,
+    25,
+    62
+   ],
+   "view": {
+    "from": {
+     "center": [
+      2,
+      52
+     ],
+     "width_km": 2200,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      4,
+      52
+     ],
+     "width_km": 1800,
+     "tilt": 8
+    }
+   },
+   "cities": [
+    {
+     "name": "London",
+     "lon": -0.13,
+     "lat": 51.51,
+     "capital": true
+    },
+    {
+     "name": "Berlin",
+     "lon": 13.4,
+     "lat": 52.52,
+     "capital": true
+    }
+   ],
+   "routes": [
+    {
+     "from": [
+      -0.13,
+      51.51
+     ],
+     "to": [
+      13.4,
+      52.52
+     ],
+     "arc": 0.1,
+     "icon": "bomber",
+     "count": 2,
+     "style": "solid",
+     "draw": [
+      0.3,
+      4.0
+     ],
+     "label": "England to Germany",
+     "labelAt": [
+      6,
+      53.5
+     ]
+    }
+   ],
+   "focus": [
+    "United Kingdom",
+    "Germany"
+   ]
+  },
+  {
+   "id": "s024",
+   "start": 87.92,
+   "end": 92.06,
+   "type": "flight",
+   "section": "THE PROBLEM",
+   "w0": 223,
+   "w1": 233,
+   "text": "the B-24 Liberator, could manage about half the range with a",
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 30,
+     "el": 4,
+     "dist": 1.8
+    },
+    "to": {
+     "az": 40,
+     "el": 5,
+     "dist": 1.6
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "aircraft": [
+    "b36"
+   ]
+  },
+  {
+   "id": "s025",
+   "start": 92.06,
+   "end": 95.42,
+   "type": "hangar",
+   "section": "THE PROBLEM",
+   "w0": 234,
+   "w1": 242,
+   "text": "fraction of the load. And the physics was brutal.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 230,
+     "el": 14,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 215,
+     "el": 16,
+     "dist": 1.08
+    }
+   }
+  },
+  {
+   "id": "s026",
+   "start": 95.42,
+   "end": 98.48,
+   "type": "flight",
+   "section": "THE PROBLEM",
+   "w0": 243,
+   "w1": 249,
+   "text": "Range meant fuel, and fuel meant weight.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 210,
+     "el": 18,
+     "dist": 1.5
+    },
+    "to": {
+     "az": 200,
+     "el": 16,
+     "dist": 1.4
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s027",
+   "start": 98.48,
+   "end": 106.42,
+   "type": "board",
+   "section": "THE PROBLEM",
+   "w0": 250,
+   "w1": 272,
+   "text": "Weight meant a bigger wing, and a bigger wing meant more drag. More drag meant more power, and more power meant more engines,",
+   "items": [
+    {
+     "type": "rect",
+     "x": 175,
+     "y": 400,
+     "w": 230,
+     "h": 80,
+     "fill": "#f2f2f2",
+     "stroke": "black",
+     "radius": 10,
+     "grow": true,
+     "at": 0.31
+    },
+    {
+     "type": "text",
+     "text": "WEIGHT",
+     "x": 175,
+     "y": 400,
+     "size": 34,
+     "align": "center",
+     "at": 0.31
+    },
+    {
+     "type": "rect",
+     "x": 472,
+     "y": 400,
+     "w": 230,
+     "h": 80,
+     "fill": "#f2f2f2",
+     "stroke": "black",
+     "radius": 10,
+     "grow": true,
+     "at": 1.01
+    },
+    {
+     "type": "text",
+     "text": "BIGGER WING",
+     "x": 472,
+     "y": 400,
+     "size": 34,
+     "align": "center",
+     "at": 1.01
+    },
+    {
+     "type": "rect",
+     "x": 770,
+     "y": 400,
+     "w": 230,
+     "h": 80,
+     "fill": "#f2f2f2",
+     "stroke": "black",
+     "radius": 10,
+     "grow": true,
+     "at": 2.87
+    },
+    {
+     "type": "text",
+     "text": "MORE DRAG",
+     "x": 770,
+     "y": 400,
+     "size": 34,
+     "align": "center",
+     "at": 2.87
+    },
+    {
+     "type": "rect",
+     "x": 1067,
+     "y": 400,
+     "w": 230,
+     "h": 80,
+     "fill": "#f2f2f2",
+     "stroke": "black",
+     "radius": 10,
+     "grow": true,
+     "at": 5.03
+    },
+    {
+     "type": "text",
+     "text": "MORE POWER",
+     "x": 1067,
+     "y": 400,
+     "size": 34,
+     "align": "center",
+     "at": 5.03
+    },
+    {
+     "type": "rect",
+     "x": 1365,
+     "y": 400,
+     "w": 230,
+     "h": 80,
+     "fill": "#f2f2f2",
+     "stroke": "black",
+     "radius": 10,
+     "grow": true,
+     "at": 7.19
+    },
+    {
+     "type": "text",
+     "text": "MORE ENGINES",
+     "x": 1365,
+     "y": 400,
+     "size": 34,
+     "align": "center",
+     "at": 7.19
+    },
+    {
+     "type": "arrow",
+     "pts": [
+      [
+       290,
+       400
+      ],
+      [
+       357,
+       400
+      ]
+     ],
+     "color": "black",
+     "width": 4,
+     "head": true,
+     "at": 1.01
+    },
+    {
+     "type": "arrow",
+     "pts": [
+      [
+       587,
+       400
+      ],
+      [
+       655,
+       400
+      ]
+     ],
+     "color": "black",
+     "width": 4,
+     "head": true,
+     "at": 2.87
+    },
+    {
+     "type": "arrow",
+     "pts": [
+      [
+       885,
+       400
+      ],
+      [
+       952,
+       400
+      ]
+     ],
+     "color": "black",
+     "width": 4,
+     "head": true,
+     "at": 5.03
+    },
+    {
+     "type": "arrow",
+     "pts": [
+      [
+       1182,
+       400
+      ],
+      [
+       1250,
+       400
+      ]
+     ],
+     "color": "black",
+     "width": 4,
+     "head": true,
+     "at": 7.19
+    },
+    {
+     "type": "arrow",
+     "pts": [
+      [
+       1365,
+       440
+      ],
+      [
+       1365,
+       700
+      ],
+      [
+       175,
+       700
+      ],
+      [
+       175,
+       450
+      ]
+     ],
+     "color": "red",
+     "width": 6,
+     "head": true,
+     "at": 7.44
+    },
+    {
+     "type": "text",
+     "text": "AND STILL MORE WEIGHT",
+     "x": 800,
+     "y": 640,
+     "size": 44,
+     "color": "red",
+     "align": "center",
+     "at": 7.44
+    }
+   ]
+  },
+  {
+   "id": "s028",
+   "start": 106.42,
+   "end": 110.78,
+   "type": "hangar",
+   "section": "THE PROBLEM",
+   "w0": 273,
+   "w1": 283,
+   "text": "which meant still more weight. Every answer made the problem bigger.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 300,
+     "el": 7,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 310,
+     "el": 8,
+     "dist": 1.45
+    }
+   }
+  },
+  {
+   "id": "s029",
+   "start": 110.78,
+   "end": 114.95,
+   "type": "archival",
+   "section": "THE PROBLEM",
+   "w0": 284,
+   "w1": 292,
+   "text": "The contract went to Consolidated Aircraft of Fort Worth,",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 160
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s030",
+   "start": 114.95,
+   "end": 118.16,
+   "type": "flight",
+   "section": "THE PROBLEM",
+   "w0": 293,
+   "w1": 296,
+   "text": "Texas, in October 1941,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "distant",
+    "from": {
+     "az": 100,
+     "el": 4,
+     "dist": 3.0,
+     "fov": 9
+    },
+    "to": {
+     "az": 95,
+     "el": 5,
+     "dist": 2.9,
+     "fov": 9
+    }
+   },
+   "world": {
+    "ground": "desert",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s031",
+   "start": 118.16,
+   "end": 124.31,
+   "type": "hangar",
+   "section": "THE PROBLEM",
+   "w0": 297,
+   "w1": 312,
+   "text": "before America had even entered the war. So let's start with why the B-36 was built.",
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   },
+   "aircraft": [
+    "b36"
+   ]
+  },
+  {
+   "id": "s032",
+   "start": 124.31,
+   "end": 128.82,
+   "type": "timeline",
+   "section": "THE ORIGIN",
+   "w0": 313,
+   "w1": 321,
+   "text": "Consolidated Aircraft, soon renamed Convair, took the contract in",
+   "from": 1941,
+   "to": 1960,
+   "years": [
+    1941,
+    1946,
+    1948,
+    1949,
+    1950,
+    1951,
+    1954,
+    1959
+   ],
+   "events": [
+    {
+     "year": 1941,
+     "text": "1941: Requirement\n& contract"
+    },
+    {
+     "year": 1946,
+     "text": "1946: XB-36\nfirst flight\n8 August"
+    },
+    {
+     "year": 1948,
+     "text": "1948: First B-36A\ndelivered, June"
+    },
+    {
+     "year": 1949,
+     "text": "1949: B-36D\nten engines"
+    },
+    {
+     "year": 1950,
+     "text": "1950: Broken Arrow\n13 February"
+    },
+    {
+     "year": 1951,
+     "text": "1951: RB-36\nArctic patrols"
+    },
+    {
+     "year": 1954,
+     "text": "1954: Featherweight\nstripped for altitude"
+    },
+    {
+     "year": 1959,
+     "text": "1959: Last B-36\nretires, 12 Feb"
+    }
+   ],
+   "photos": [
+    {
+     "file": "media/photos/b36b-flight-1949.jpg",
+     "year": 1949,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36B in flight, 1949",
+     "bw": true
+    },
+    {
+     "file": "media/photos/rb36d-1952.jpg",
+     "year": 1952,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "RB-36D, 1952",
+     "bw": true
+    },
+    {
+     "file": "media/photos/b36f-pair-1955.jpg",
+     "year": 1955,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36Fs, 1955",
+     "bw": true
+    }
+   ],
+   "notes": [
+    {
+     "year": 1949,
+     "text": "Oct 1949:\nRevolt of the\nAdmirals",
+     "y": -1.15
+    },
+    {
+     "year": 1959,
+     "text": "30 Apr 1959:\nlast flight\nto Dayton",
+     "y": -1.15
+    }
+   ],
+   "length": 18,
+   "docs": [
+    {
+     "year": 1941,
+     "y": -1.35,
+     "kind": "drawing",
+     "icon": "bomber",
+     "w": 1.4
+    }
+   ],
+   "clips": [
+    {
+     "year": 1946,
+     "y": -1.1
+    }
+   ],
+   "camera": {
+    "from": {
+     "year": 1941,
+     "y": 0.3,
+     "dist": 4.5,
+     "yaw": -8
+    },
+    "to": {
+     "year": 1943,
+     "y": 0.3,
+     "dist": 4.3,
+     "yaw": -5
+    }
+   }
+  },
+  {
+   "id": "s033",
+   "start": 128.82,
+   "end": 133.15,
+   "type": "archival",
+   "section": "THE ORIGIN",
+   "w0": 322,
+   "w1": 330,
+   "text": "October 1941 and set to work in Fort Worth,",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 195
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s034",
+   "start": 133.15,
+   "end": 141.56,
+   "type": "hangar",
+   "section": "THE ORIGIN",
+   "w0": 331,
+   "w1": 351,
+   "text": "Texas. The design team, led by Ted Hall, started with the wing. Nothing else mattered until the wing was big enough",
+   "camera": {
+    "from": {
+     "az": 60,
+     "el": 50,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 75,
+     "el": 54,
+     "dist": 1.0
+    }
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "wingL",
+      "wingR"
+     ],
+     "at": 0.5
+    }
+   ],
+   "in": "dip"
+  },
+  {
+   "id": "s035",
+   "start": 141.56,
+   "end": 145.33,
+   "type": "flight",
+   "section": "THE ORIGIN",
+   "w0": 352,
+   "w1": 361,
+   "text": "to lift the fuel, the bombs, and the engines themselves.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 120,
+     "el": -12,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 110,
+     "el": -10,
+     "dist": 1.5
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s036",
+   "start": 145.33,
+   "end": 149.94,
+   "type": "hangar",
+   "section": "THE ORIGIN",
+   "w0": 362,
+   "w1": 374,
+   "text": "It grew to 230 feet across, wider than any wing ever put on",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 60,
+     "el": 50,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 75,
+     "el": 54,
+     "dist": 1.0
+    }
+   },
+   "overlays": [
+    {
+     "type": "dimension",
+     "from": "wingtipL",
+     "to": "wingtipR",
+     "offset": [
+      0,
+      0.3,
+      0
+     ],
+     "value": 70.1,
+     "unit": "m",
+     "at": 0.96,
+     "imperialFirst": true
+    }
+   ]
+  },
+  {
+   "id": "s037",
+   "start": 149.94,
+   "end": 153.27,
+   "type": "archival",
+   "section": "THE ORIGIN",
+   "w0": 375,
+   "w1": 381,
+   "text": "a combat aircraft. The engines came next.",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 240
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s038",
+   "start": 153.27,
+   "end": 159.5,
+   "type": "hangar",
+   "section": "THE ORIGIN",
+   "w0": 382,
+   "w1": 394,
+   "text": "The most powerful piston engine America had was the Pratt and Whitney R-4360",
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 6,
+     "dist": 0.45,
+     "target": "engine2"
+    },
+    "to": {
+     "az": 48,
+     "el": 8,
+     "dist": 0.4,
+     "target": "engine2"
+    }
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ],
+   "in": "dip"
+  },
+  {
+   "id": "s039",
+   "start": 159.5,
+   "end": 164.34,
+   "type": "hangar",
+   "section": "THE ORIGIN",
+   "w0": 395,
+   "w1": 402,
+   "text": "Wasp Major, a 28-cylinder radial that made 3,500",
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 6,
+     "dist": 0.45,
+     "target": "engine2"
+    },
+    "to": {
+     "az": 48,
+     "el": 8,
+     "dist": 0.4,
+     "target": "engine2"
+    }
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s040",
+   "start": 164.34,
+   "end": 168.61,
+   "type": "flight",
+   "section": "THE ORIGIN",
+   "w0": 403,
+   "w1": 415,
+   "text": "horsepower. Six of them would hang on the trailing edge of the wing,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 155,
+     "el": 8,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 145,
+     "el": 9,
+     "dist": 1.45
+    }
+   },
+   "world": {
+    "ground": "mountains",
+    "time": "morning"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s041",
+   "start": 168.61,
+   "end": 176.76,
+   "type": "board",
+   "section": "THE ORIGIN",
+   "w0": 416,
+   "w1": 433,
+   "text": "facing backward, driving pusher propellers. The arrangement kept the wing clean, but it starved the engines of cooling",
+   "items": [
+    {
+     "type": "icon",
+     "kind": "bomber",
+     "x": 800,
+     "y": 430,
+     "size": 560,
+     "color": "black",
+     "fill": "black",
+     "outline": "black",
+     "at": 0.2
+    },
+    {
+     "type": "text",
+     "text": "PUSHER PROPS \u2014 FACING BACKWARD",
+     "x": 800,
+     "y": 120,
+     "size": 40,
+     "align": "center",
+     "at": 0.5
+    },
+    {
+     "type": "airflow",
+     "x": 400,
+     "y": 80,
+     "w": 800,
+     "h": 140,
+     "dir": "down",
+     "count": 5,
+     "speed": 1,
+     "len": 60,
+     "at": 7.62
+    },
+    {
+     "type": "text",
+     "text": "STARVED OF COOLING AIR",
+     "x": 800,
+     "y": 800,
+     "size": 44,
+     "color": "red",
+     "align": "center",
+     "at": 6.26
+    }
+   ]
+  },
+  {
+   "id": "s042",
+   "start": 176.76,
+   "end": 186.56,
+   "type": "hangar",
+   "section": "THE ORIGIN",
+   "w0": 434,
+   "w1": 453,
+   "text": "air, and overheating would haunt the bomber for its whole career. The prototype, the XB-36, rolled out in August 1945,",
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "s043",
+   "start": 186.56,
+   "end": 191.78,
+   "type": "flight",
+   "section": "THE ORIGIN",
+   "w0": 454,
+   "w1": 466,
+   "text": "just as the war ended, and it first flew on 8 August 1946,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 30,
+     "el": 4,
+     "dist": 1.8
+    },
+    "to": {
+     "az": 40,
+     "el": 5,
+     "dist": 1.6
+    }
+   },
+   "world": {
+    "ground": "farmland",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s044",
+   "start": 191.78,
+   "end": 195.47,
+   "type": "cockpit",
+   "section": "THE ORIGIN",
+   "w0": 467,
+   "w1": 473,
+   "text": "with test pilots Beryl Erickson and G.",
+   "style": "vintage",
+   "view": "pilot",
+   "pilot": true
+  },
+  {
+   "id": "s045",
+   "start": 195.47,
+   "end": 200.04,
+   "type": "archival",
+   "section": "THE ORIGIN",
+   "w0": 474,
+   "w1": 483,
+   "text": "S. Green at the controls, from Carswell Air Force Base",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 480
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s046",
+   "start": 200.04,
+   "end": 204.32,
+   "type": "hangar",
+   "section": "THE ORIGIN",
+   "w0": 484,
+   "w1": 494,
+   "text": "in Fort Worth. The first version stood on single huge main",
+   "camera": {
+    "from": {
+     "az": 40,
+     "el": 2,
+     "dist": 0.6,
+     "target": "bottom",
+     "minY": 0.4
+    },
+    "to": {
+     "az": 55,
+     "el": 3,
+     "dist": 0.55,
+     "target": "bottom",
+     "minY": 0.4
+    }
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "in": "dip"
+  },
+  {
+   "id": "s047",
+   "start": 204.32,
+   "end": 208.58,
+   "type": "hangar",
+   "section": "THE ORIGIN",
+   "w0": 495,
+   "w1": 504,
+   "text": "wheels that sank into soft runways, so production aircraft got",
+   "camera": {
+    "from": {
+     "az": 230,
+     "el": 14,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 215,
+     "el": 16,
+     "dist": 1.08
+    }
+   },
+   "aircraft": [
+    "b36"
+   ]
+  },
+  {
+   "id": "s048",
+   "start": 208.58,
+   "end": 214.3,
+   "type": "flight",
+   "section": "THE ORIGIN",
+   "w0": 505,
+   "w1": 514,
+   "text": "four-wheel bogies instead. The Air Force accepted its first B-36A",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 95,
+     "el": 2,
+     "dist": 2.2
+    },
+    "to": {
+     "az": 88,
+     "el": 3,
+     "dist": 2.0
+    }
+   },
+   "world": {
+    "ground": "hills",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s049",
+   "start": 214.3,
+   "end": 221.27,
+   "type": "timeline",
+   "section": "THE ORIGIN",
+   "w0": 515,
+   "w1": 531,
+   "text": "in June 1948, and the 7th Bombardment Wing at Carswell became the first unit to fly it.",
+   "from": 1941,
+   "to": 1960,
+   "years": [
+    1941,
+    1946,
+    1948,
+    1949,
+    1950,
+    1951,
+    1954,
+    1959
+   ],
+   "events": [
+    {
+     "year": 1941,
+     "text": "1941: Requirement\n& contract"
+    },
+    {
+     "year": 1946,
+     "text": "1946: XB-36\nfirst flight\n8 August"
+    },
+    {
+     "year": 1948,
+     "text": "1948: First B-36A\ndelivered, June"
+    },
+    {
+     "year": 1949,
+     "text": "1949: B-36D\nten engines"
+    },
+    {
+     "year": 1950,
+     "text": "1950: Broken Arrow\n13 February"
+    },
+    {
+     "year": 1951,
+     "text": "1951: RB-36\nArctic patrols"
+    },
+    {
+     "year": 1954,
+     "text": "1954: Featherweight\nstripped for altitude"
+    },
+    {
+     "year": 1959,
+     "text": "1959: Last B-36\nretires, 12 Feb"
+    }
+   ],
+   "photos": [
+    {
+     "file": "media/photos/b36b-flight-1949.jpg",
+     "year": 1949,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36B in flight, 1949",
+     "bw": true
+    },
+    {
+     "file": "media/photos/rb36d-1952.jpg",
+     "year": 1952,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "RB-36D, 1952",
+     "bw": true
+    },
+    {
+     "file": "media/photos/b36f-pair-1955.jpg",
+     "year": 1955,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36Fs, 1955",
+     "bw": true
+    }
+   ],
+   "notes": [
+    {
+     "year": 1949,
+     "text": "Oct 1949:\nRevolt of the\nAdmirals",
+     "y": -1.15
+    },
+    {
+     "year": 1959,
+     "text": "30 Apr 1959:\nlast flight\nto Dayton",
+     "y": -1.15
+    }
+   ],
+   "length": 18,
+   "docs": [
+    {
+     "year": 1941,
+     "y": -1.35,
+     "kind": "drawing",
+     "icon": "bomber",
+     "w": 1.4
+    }
+   ],
+   "clips": [
+    {
+     "year": 1946,
+     "y": -1.1
+    }
+   ],
+   "camera": {
+    "from": {
+     "year": 1947,
+     "y": 0.3,
+     "dist": 4.5,
+     "yaw": -8
+    },
+    "to": {
+     "year": 1949,
+     "y": 0.3,
+     "dist": 4.3,
+     "yaw": -5
+    }
+   }
+  },
+  {
+   "id": "s050",
+   "start": 221.27,
+   "end": 227.27,
+   "type": "map",
+   "section": "THE ORIGIN",
+   "w0": 532,
+   "w1": 552,
+   "text": "By then the war the bomber was designed for was over, and a new one, the Cold War, had already begun.",
+   "style": "paper",
+   "bounds": [
+    -170,
+    10,
+    60,
+    75
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -50,
+      45
+     ],
+     "width_km": 10000,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -30,
+      50
+     ],
+     "width_km": 8000,
+     "tilt": 5
+    }
+   },
+   "cities": [
+    {
+     "name": "Washington",
+     "lon": -77.04,
+     "lat": 38.9,
+     "capital": true
+    },
+    {
+     "name": "Moscow",
+     "lon": 37.62,
+     "lat": 55.76,
+     "capital": true
+    }
+   ],
+   "routes": [],
+   "seas": [
+    {
+     "name": "North\nAtlantic Ocean",
+     "lon": -40,
+     "lat": 40,
+     "size": 1.4
+    }
+   ],
+   "focus": [
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "s051",
+   "start": 227.27,
+   "end": 232.02,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 553,
+   "w1": 565,
+   "text": "The version we're looking at is the B-36D, the first version with all",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 92,
+     "el": 4,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 82,
+     "el": 6,
+     "dist": 1.1
+    }
+   },
+   "overlays": [
+    {
+     "type": "label",
+     "text": "B-36D",
+     "anchor": "center",
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "s052",
+   "start": 232.02,
+   "end": 236.49,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 566,
+   "w1": 575,
+   "text": "ten engines, and the variant that entered service in 1949.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s053",
+   "start": 236.49,
+   "end": 241.38,
+   "type": "studio",
+   "section": "WALKAROUND",
+   "w0": 576,
+   "w1": 582,
+   "text": "It is 49.4 meters long, 14.25 meters",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 90,
+     "el": 4,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 82,
+     "el": 6,
+     "dist": 1.1
+    }
+   },
+   "overlays": [
+    {
+     "type": "dimension",
+     "from": "nose",
+     "to": "tail",
+     "offset": [
+      0,
+      0.3,
+      0
+     ],
+     "value": 49.4,
+     "unit": "m",
+     "at": 0.26
+    },
+    {
+     "type": "dimension",
+     "from": "top",
+     "to": "bottom",
+     "offset": [
+      -20,
+      0,
+      0
+     ],
+     "value": 14.25,
+     "unit": "m",
+     "at": 3.16
+    }
+   ]
+  },
+  {
+   "id": "s054",
+   "start": 241.38,
+   "end": 244.865,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 583,
+   "w1": 589,
+   "text": "tall, and its wingspan is 70.1 meters.",
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "dimension",
+     "from": "wingtipL",
+     "to": "wingtipR",
+     "offset": [
+      0,
+      0.3,
+      0
+     ],
+     "value": 70.1,
+     "unit": "m",
+     "at": 1.87
+    }
+   ]
+  },
+  {
+   "id": "s055",
+   "start": 244.865,
+   "end": 249.64,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 590,
+   "w1": 601,
+   "text": "That wing is longer than a Boeing B-52's by almost 14 meters,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 60,
+     "el": 50,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 75,
+     "el": 54,
+     "dist": 1.0
+    }
+   },
+   "overlays": [
+    {
+     "type": "label",
+     "text": "Almost 14 m longer than a B-52",
+     "anchor": "wingL",
+     "at": 3.73
+    }
+   ]
+  },
+  {
+   "id": "s056",
+   "start": 249.64,
+   "end": 253.85,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 602,
+   "w1": 613,
+   "text": "and it remains the longest wing ever put on a combat aircraft.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 230,
+     "el": 14,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 215,
+     "el": 16,
+     "dist": 1.08
+    }
+   },
+   "overlays": [
+    {
+     "type": "label",
+     "text": "Longest wing of any combat aircraft",
+     "anchor": "wingL",
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "s057",
+   "start": 253.85,
+   "end": 257.71,
+   "type": "flight",
+   "section": "WALKAROUND",
+   "w0": 614,
+   "w1": 620,
+   "text": "The bomber could climb to 45,200 feet,",
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 60,
+     "el": 20,
+     "dist": 1.5
+    },
+    "to": {
+     "az": 50,
+     "el": 22,
+     "dist": 1.4
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 3,
+    "climb": 8
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "stat",
+     "icon": "altitude",
+     "at": 1.6,
+     "value": 45200,
+     "unit": "ft",
+     "imperialFirst": true
+    }
+   ]
+  },
+  {
+   "id": "s058",
+   "start": 257.71,
+   "end": 262.26,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 621,
+   "w1": 631,
+   "text": "cruise at 200 knots, and reach 381 knots with every engine",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 300,
+     "el": 7,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 310,
+     "el": 8,
+     "dist": 1.45
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "value": 200.0,
+     "unit": "kn",
+     "icon": "speed",
+     "at": 0.34
+    },
+    {
+     "type": "stat",
+     "value": 381.0,
+     "unit": "kn",
+     "icon": "speed",
+     "at": 1.78,
+     "pos": "upper"
+    }
+   ]
+  },
+  {
+   "id": "s059",
+   "start": 262.26,
+   "end": 266.86,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 632,
+   "w1": 641,
+   "text": "running. Its range was 6,500 nautical miles with a full",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "value": 6500.0,
+     "unit": "nmi",
+     "icon": "range",
+     "at": 1.7
+    }
+   ]
+  },
+  {
+   "id": "s060",
+   "start": 266.86,
+   "end": 271.41,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 642,
+   "w1": 651,
+   "text": "bomb load, and 8,700 nautical miles with a light one,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "value": 8700.0,
+     "unit": "nmi",
+     "icon": "range",
+     "at": 1.02
+    }
+   ]
+  },
+  {
+   "id": "s061",
+   "start": 271.41,
+   "end": 274.4,
+   "type": "studio",
+   "section": "WALKAROUND",
+   "w0": 652,
+   "w1": 660,
+   "text": "far enough to cross an ocean and come back.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 92,
+     "el": 4,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 82,
+     "el": 6,
+     "dist": 1.1
+    }
+   }
+  },
+  {
+   "id": "s062",
+   "start": 274.4,
+   "end": 278.0,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 661,
+   "w1": 667,
+   "text": "It could carry 39,000 kilograms of bombs,",
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "stat",
+     "icon": "weight",
+     "at": 0.82,
+     "value": 39000,
+     "unit": "kg"
+    }
+   ]
+  },
+  {
+   "id": "s063",
+   "start": 278.0,
+   "end": 281.03,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 668,
+   "w1": 676,
+   "text": "more than ten times the load of a B-17,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   }
+  },
+  {
+   "id": "s064",
+   "start": 281.03,
+   "end": 284.03,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 677,
+   "w1": 682,
+   "text": "with a crew of 15. Now,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   },
+   "overlays": [
+    {
+     "type": "people",
+     "count": 15,
+     "cols": 5,
+     "spacing": 1.0,
+     "pos": [
+      12,
+      0,
+      7
+     ],
+     "color": "blue",
+     "stagger": 0.12,
+     "at": 1.31
+    }
+   ]
+  },
+  {
+   "id": "s065",
+   "start": 284.03,
+   "end": 287.66,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 683,
+   "w1": 694,
+   "text": "let's take a closer look at how the aircraft is laid out.",
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   },
+   "aircraft": [
+    "b36"
+   ]
+  },
+  {
+   "id": "s066",
+   "start": 287.66,
+   "end": 290.89,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 695,
+   "w1": 704,
+   "text": "Up front is the glazed nose, where the bombardier sat,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 25,
+     "el": 6,
+     "dist": 0.45,
+     "target": "nose"
+    },
+    "to": {
+     "az": 38,
+     "el": 8,
+     "dist": 0.4,
+     "target": "nose"
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "canopy"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s067",
+   "start": 290.89,
+   "end": 293.89,
+   "type": "cockpit",
+   "section": "WALKAROUND",
+   "w0": 705,
+   "w1": 713,
+   "text": "with the pressurized flight deck above and behind it.",
+   "style": "vintage",
+   "view": "pilot",
+   "pilot": true
+  },
+  {
+   "id": "s068",
+   "start": 293.89,
+   "end": 297.67,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 714,
+   "w1": 723,
+   "text": "The fuselage is deep and round, finished in bare metal,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 300,
+     "el": 7,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 310,
+     "el": 8,
+     "dist": 1.45
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "fuselage"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s069",
+   "start": 297.67,
+   "end": 300.52,
+   "type": "studio",
+   "section": "WALKAROUND",
+   "w0": 724,
+   "w1": 729,
+   "text": "and it holds two pressurized compartments.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   },
+   "overlays": [
+    {
+     "type": "xray",
+     "shapes": [
+      {
+       "shape": "box",
+       "pos": [
+        15,
+        4.1,
+        0
+       ],
+       "size": [
+        12,
+        3.6,
+        3.4
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -15,
+        4.1,
+        0
+       ],
+       "size": [
+        12,
+        3.6,
+        3.4
+       ]
+      }
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s070",
+   "start": 300.52,
+   "end": 305.41,
+   "type": "archival",
+   "section": "WALKAROUND",
+   "w0": 730,
+   "w1": 743,
+   "text": "The crew moved between them through a tunnel 26 meters long on a small",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 532
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s071",
+   "start": 305.41,
+   "end": 310.01,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 744,
+   "w1": 756,
+   "text": "wheeled trolley, past a galley and six bunks for rest on missions that",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   },
+   "overlays": [
+    {
+     "type": "xray",
+     "shapes": [
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        4.1,
+        0
+       ],
+       "size": [
+        26,
+        1.0,
+        1.0
+       ]
+      }
+     ],
+     "at": 0.1
+    },
+    {
+     "type": "dimension",
+     "from": [
+      -13,
+      4.1,
+      0
+     ],
+     "to": [
+      13,
+      4.1,
+      0
+     ],
+     "offset": [
+      0,
+      1.5,
+      0
+     ],
+     "value": 26,
+     "unit": "m",
+     "at": 0.1
+    }
+   ],
+   "in": "dip"
+  },
+  {
+   "id": "s072",
+   "start": 310.01,
+   "end": 313.75,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 757,
+   "w1": 767,
+   "text": "could last 40 hours. Moving toward the middle of the aircraft,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 92,
+     "el": 4,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 82,
+     "el": 6,
+     "dist": 1.1
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "icon": "time",
+     "at": 0.37,
+     "text": "40 hours"
+    }
+   ]
+  },
+  {
+   "id": "s073",
+   "start": 313.75,
+   "end": 316.93,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 768,
+   "w1": 776,
+   "text": "we have the wing, running straight through the fuselage,",
+   "camera": {
+    "from": {
+     "az": 60,
+     "el": 50,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 75,
+     "el": 54,
+     "dist": 1.0
+    }
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "wingL",
+      "wingR"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s074",
+   "start": 316.93,
+   "end": 319.45,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 777,
+   "w1": 783,
+   "text": "and the four bomb bays beneath it.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 40,
+     "el": 2,
+     "dist": 0.6,
+     "target": "wingL",
+     "minY": 0.4
+    },
+    "to": {
+     "az": 50,
+     "el": 3,
+     "dist": 0.55,
+     "target": "wingL",
+     "minY": 0.4
+    }
+   },
+   "overlays": [
+    {
+     "type": "xray",
+     "shapes": [
+      {
+       "shape": "box",
+       "pos": [
+        4,
+        2.6,
+        0
+       ],
+       "size": [
+        9,
+        1.2,
+        2.6
+       ]
+      }
+     ],
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "s075",
+   "start": 319.45,
+   "end": 324.25,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 784,
+   "w1": 803,
+   "text": "The wing is so thick at the root that a man could crawl inside it to work on the fuel",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 60,
+     "el": 50,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 75,
+     "el": 54,
+     "dist": 1.0
+    }
+   },
+   "overlays": [
+    {
+     "type": "xray",
+     "shapes": [
+      {
+       "shape": "box",
+       "pos": [
+        4,
+        3.7,
+        0
+       ],
+       "size": [
+        9,
+        1.7,
+        4
+       ]
+      }
+     ],
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "s076",
+   "start": 324.25,
+   "end": 327.6,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 804,
+   "w1": 811,
+   "text": "system. Behind the wing, on its trailing edge,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   }
+  },
+  {
+   "id": "s077",
+   "start": 327.6,
+   "end": 330.67,
+   "type": "studio",
+   "section": "WALKAROUND",
+   "w0": 812,
+   "w1": 818,
+   "text": "sit the six piston engines, mounted backward.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 230,
+     "el": 14,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 215,
+     "el": 16,
+     "dist": 1.08
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s078",
+   "start": 330.67,
+   "end": 335.86,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 819,
+   "w1": 828,
+   "text": "Each one is a Pratt and Whitney R-4360 Wasp Major,",
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 6,
+     "dist": 0.45,
+     "target": "engine2"
+    },
+    "to": {
+     "az": 48,
+     "el": 8,
+     "dist": 0.4,
+     "target": "engine2"
+    }
+   },
+   "aircraft": [
+    "b36"
+   ],
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s079",
+   "start": 335.86,
+   "end": 340.07,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 829,
+   "w1": 834,
+   "text": "a 28-cylinder radial making 3,500 horsepower,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 6,
+     "dist": 0.45,
+     "target": "engine2"
+    },
+    "to": {
+     "az": 48,
+     "el": 8,
+     "dist": 0.4,
+     "target": "engine2"
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "value": 3500.0,
+     "unit": "hp",
+     "icon": "power",
+     "imperialFirst": true,
+     "at": 1.92
+    },
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s080",
+   "start": 340.07,
+   "end": 345.28,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 835,
+   "w1": 844,
+   "text": "and each one turns a three-bladed propeller 5.8 meters across.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   },
+   "overlays": [
+    {
+     "type": "dimension",
+     "from": [
+      -1.9,
+      1.9,
+      17.5
+     ],
+     "to": [
+      -1.9,
+      7.7,
+      17.5
+     ],
+     "offset": [
+      0,
+      0,
+      2
+     ],
+     "value": 5.8,
+     "unit": "m",
+     "at": 2.93
+    }
+   ]
+  },
+  {
+   "id": "s081",
+   "start": 345.28,
+   "end": 350.39,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 845,
+   "w1": 858,
+   "text": "The propellers sit behind the wing, pushing the bomber forward instead of pulling it,",
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   },
+   "aircraft": [
+    {
+     "id": "b36",
+     "state": {
+      "props": 3
+     }
+    }
+   ]
+  },
+  {
+   "id": "s082",
+   "start": 350.39,
+   "end": 354.85,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 859,
+   "w1": 875,
+   "text": "and their slow beat made a low pulse on the ground that gave the bomber away long",
+   "aircraft": [
+    {
+     "id": "b36",
+     "state": {
+      "props": 2
+     }
+    }
+   ],
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   }
+  },
+  {
+   "id": "s083",
+   "start": 354.85,
+   "end": 359.62,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 876,
+   "w1": 886,
+   "text": "before it arrived. The main landing gear stands on four-wheel bogies,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 40,
+     "el": 2,
+     "dist": 0.6,
+     "target": "bottom",
+     "minY": 0.4
+    },
+    "to": {
+     "az": 55,
+     "el": 3,
+     "dist": 0.55,
+     "target": "bottom",
+     "minY": 0.4
+    }
+   }
+  },
+  {
+   "id": "s084",
+   "start": 359.62,
+   "end": 364.23,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 887,
+   "w1": 897,
+   "text": "built to spread a weight of about 162,000 kilograms across the",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "value": 162000.0,
+     "unit": "kg",
+     "icon": "weight",
+     "at": 1.32
+    }
+   ]
+  },
+  {
+   "id": "s085",
+   "start": 364.23,
+   "end": 367.21,
+   "type": "studio",
+   "section": "WALKAROUND",
+   "w0": 898,
+   "w1": 906,
+   "text": "runway. At the tail is a single tall fin,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 180,
+     "el": 10,
+     "dist": 0.9,
+     "target": "tail"
+    },
+    "to": {
+     "az": 170,
+     "el": 12,
+     "dist": 0.85,
+     "target": "tail"
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "fin"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s086",
+   "start": 367.21,
+   "end": 371.09,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 907,
+   "w1": 917,
+   "text": "and below it, in the tail cone, sat the rear gunner,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 180,
+     "el": 10,
+     "dist": 0.9,
+     "target": "tail"
+    },
+    "to": {
+     "az": 170,
+     "el": 12,
+     "dist": 0.85,
+     "target": "tail"
+    }
+   }
+  },
+  {
+   "id": "s087",
+   "start": 371.09,
+   "end": 374.855,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 918,
+   "w1": 925,
+   "text": "alone. Then came the strangest feature of all.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   }
+  },
+  {
+   "id": "s088",
+   "start": 374.855,
+   "end": 379.59,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 926,
+   "w1": 938,
+   "text": "Under each outer wing hangs a pod, and each pod holds two General",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 40,
+     "el": 2,
+     "dist": 0.6,
+     "target": "wingL",
+     "minY": 0.4
+    },
+    "to": {
+     "az": 50,
+     "el": 3,
+     "dist": 0.55,
+     "target": "wingL",
+     "minY": 0.4
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s089",
+   "start": 379.59,
+   "end": 382.39,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 939,
+   "w1": 941,
+   "text": "Electric J47 turbojets.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 40,
+     "el": 2,
+     "dist": 0.6,
+     "target": "wingL",
+     "minY": 0.4
+    },
+    "to": {
+     "az": 50,
+     "el": 3,
+     "dist": 0.55,
+     "target": "wingL",
+     "minY": 0.4
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s090",
+   "start": 382.39,
+   "end": 387.1,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 942,
+   "w1": 951,
+   "text": "That is four jets, each making 5,200 pounds of thrust,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 300,
+     "el": 7,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 310,
+     "el": 8,
+     "dist": 1.45
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "icon": "power",
+     "at": 1.66,
+     "value": 5200,
+     "unit": "lb",
+     "imperialFirst": true
+    }
+   ]
+  },
+  {
+   "id": "s091",
+   "start": 387.1,
+   "end": 391.18,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 952,
+   "w1": 961,
+   "text": "bolted onto an airplane that already had six piston engines.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s092",
+   "start": 391.18,
+   "end": 396.57,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 962,
+   "w1": 974,
+   "text": "With all ten running, the bomber had about 40,000 horsepower for short bursts.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "value": 40000.0,
+     "unit": "hp",
+     "icon": "power",
+     "imperialFirst": true,
+     "at": 2.04
+    }
+   ]
+  },
+  {
+   "id": "s093",
+   "start": 396.57,
+   "end": 401.51,
+   "type": "studio",
+   "section": "WALKAROUND",
+   "w0": 975,
+   "w1": 990,
+   "text": "But the jets were not for cruising. They drank fuel so fast that the crew used",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 90,
+     "el": 4,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 82,
+     "el": 6,
+     "dist": 1.1
+    }
+   }
+  },
+  {
+   "id": "s094",
+   "start": 401.51,
+   "end": 406.37,
+   "type": "flight",
+   "section": "WALKAROUND",
+   "w0": 991,
+   "w1": 1004,
+   "text": "them only for takeoff, for climbing, and for a fast dash over the target.",
+   "aircraft": [
+    "b36"
+   ],
+   "world": {
+    "ground": "farmland",
+    "time": "day"
+   },
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 30,
+     "el": 4,
+     "dist": 1.8
+    },
+    "to": {
+     "az": 40,
+     "el": 5,
+     "dist": 1.6
+    }
+   },
+   "motion": {
+    "speed": 110,
+    "bank": 3,
+    "climb": 5
+   }
+  },
+  {
+   "id": "s095",
+   "start": 406.37,
+   "end": 411.51,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 1005,
+   "w1": 1020,
+   "text": "Then the crew shut them down and closed the louvers over the pods to cut drag.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s096",
+   "start": 411.51,
+   "end": 415.12,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 1021,
+   "w1": 1028,
+   "text": "Six engines carried the bomber across the ocean.",
+   "aircraft": [
+    {
+     "id": "b36",
+     "state": {
+      "props": 5
+     }
+    }
+   ],
+   "camera": {
+    "from": {
+     "az": 60,
+     "el": 50,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 75,
+     "el": 54,
+     "dist": 1.0
+    }
+   }
+  },
+  {
+   "id": "s097",
+   "start": 415.12,
+   "end": 418.48,
+   "type": "flight",
+   "section": "WALKAROUND",
+   "w0": 1029,
+   "w1": 1039,
+   "text": "Four more got it off the ground and over the target.",
+   "aircraft": [
+    "b36"
+   ],
+   "world": {
+    "ground": "ocean",
+    "time": "sunset"
+   },
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 95,
+     "el": 2,
+     "dist": 2.2
+    },
+    "to": {
+     "az": 88,
+     "el": 3,
+     "dist": 2.0
+    }
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s098",
+   "start": 418.48,
+   "end": 419.77,
+   "type": "hangar",
+   "section": "WALKAROUND",
+   "w0": 1040,
+   "w1": 1043,
+   "text": "That was the deal.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   }
+  },
+  {
+   "id": "s099",
+   "start": 419.77,
+   "end": 426.3,
+   "type": "map",
+   "section": "IN SERVICE",
+   "w0": 1044,
+   "w1": 1061,
+   "text": "Now, let's go back to how the B-36 was used. It became the backbone of Strategic Air Command,",
+   "style": "paper",
+   "bounds": [
+    -125,
+    24,
+    -66,
+    50
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -97,
+      38
+     ],
+     "width_km": 3200,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -97.4,
+      35
+     ],
+     "width_km": 2400,
+     "tilt": 10
+    }
+   },
+   "cities": [
+    {
+     "name": "Fort Worth",
+     "lon": -97.44,
+     "lat": 32.77
+    },
+    {
+     "name": "Washington",
+     "lon": -77.04,
+     "lat": 38.9,
+     "capital": true
+    }
+   ],
+   "routes": [],
+   "focus": [
+    "United States"
+   ]
+  },
+  {
+   "id": "s100",
+   "start": 426.3,
+   "end": 431.14,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1062,
+   "w1": 1074,
+   "text": "under General Curtis LeMay, and the only bomber that could carry the nuclear",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 210,
+     "el": 18,
+     "dist": 1.5
+    },
+    "to": {
+     "az": 200,
+     "el": 16,
+     "dist": 1.4
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s101",
+   "start": 431.14,
+   "end": 435.84,
+   "type": "map",
+   "section": "IN SERVICE",
+   "w0": 1075,
+   "w1": 1090,
+   "text": "weapons of the day across an ocean. That role made it the center of the fiercest",
+   "style": "paper",
+   "bounds": [
+    -100,
+    25,
+    30,
+    65
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -40,
+      45
+     ],
+     "width_km": 6500,
+     "tilt": 15
+    },
+    "to": {
+     "center": [
+      -25,
+      48
+     ],
+     "width_km": 4500,
+     "tilt": 20
+    }
+   },
+   "cities": [
+    {
+     "name": "New York",
+     "lon": -74.0,
+     "lat": 40.71
+    },
+    {
+     "name": "London",
+     "lon": -0.13,
+     "lat": 51.51,
+     "capital": true
+    }
+   ],
+   "routes": [
+    {
+     "from": [
+      -74.0,
+      40.71
+     ],
+     "to": [
+      -0.13,
+      51.51
+     ],
+     "arc": 0.12,
+     "icon": "bomber",
+     "style": "solid",
+     "draw": [
+      0.3,
+      4.2
+     ]
+    }
+   ],
+   "seas": [
+    {
+     "name": "North\nAtlantic Ocean",
+     "lon": -40,
+     "lat": 42,
+     "size": 1.4
+    }
+   ],
+   "focus": [
+    "United States",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "s102",
+   "start": 435.84,
+   "end": 438.7,
+   "type": "archival",
+   "section": "IN SERVICE",
+   "w0": 1091,
+   "w1": 1096,
+   "text": "budget fight in American military history.",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 640
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s103",
+   "start": 438.7,
+   "end": 444.0,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1097,
+   "w1": 1107,
+   "text": "In April 1949, the Navy laid the keel of a 65,000-ton",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "distant",
+    "from": {
+     "az": 100,
+     "el": 4,
+     "dist": 3.0,
+     "fov": 9
+    },
+    "to": {
+     "az": 95,
+     "el": 5,
+     "dist": 2.9,
+     "fov": 9
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s104",
+   "start": 444.0,
+   "end": 447.02,
+   "type": "hangar",
+   "section": "IN SERVICE",
+   "w0": 1108,
+   "w1": 1112,
+   "text": "supercarrier, the USS United States,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 230,
+     "el": 14,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 215,
+     "el": 16,
+     "dist": 1.08
+    }
+   }
+  },
+  {
+   "id": "s105",
+   "start": 447.02,
+   "end": 451.33,
+   "type": "map",
+   "section": "IN SERVICE",
+   "w0": 1113,
+   "w1": 1123,
+   "text": "built to launch nuclear bombers from the sea. Five days later,",
+   "style": "paper",
+   "bounds": [
+    -85,
+    30,
+    -65,
+    42
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -76,
+      36
+     ],
+     "width_km": 1200,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -76.4,
+      37
+     ],
+     "width_km": 900,
+     "tilt": 8
+    }
+   },
+   "cities": [
+    {
+     "name": "Newport News",
+     "lon": -76.43,
+     "lat": 36.98
+    },
+    {
+     "name": "Washington",
+     "lon": -77.04,
+     "lat": 38.9,
+     "capital": true
+    }
+   ],
+   "routes": [],
+   "seas": [
+    {
+     "name": "Chesapeake Bay",
+     "lon": -76.3,
+     "lat": 37.0,
+     "size": 0.7
+    }
+   ],
+   "markers": [
+    {
+     "lon": -76.43,
+     "lat": 36.98,
+     "kind": "ship",
+     "at": 0.2,
+     "size": 1.6
+    }
+   ],
+   "focus": [
+    "United States"
+   ]
+  },
+  {
+   "id": "s106",
+   "start": 451.33,
+   "end": 456.48,
+   "type": "archival",
+   "section": "IN SERVICE",
+   "w0": 1124,
+   "w1": 1137,
+   "text": "Secretary of Defense Louis Johnson cancelled it and sent the money to the B-36",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 390
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s107",
+   "start": 456.48,
+   "end": 460.54,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1138,
+   "w1": 1146,
+   "text": "instead. The Secretary of the Navy resigned in protest,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 120,
+     "el": -12,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 110,
+     "el": -10,
+     "dist": 1.5
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s108",
+   "start": 460.54,
+   "end": 465.46,
+   "type": "timeline",
+   "section": "IN SERVICE",
+   "w0": 1147,
+   "w1": 1159,
+   "text": "and the admirals took their case to Congress, calling the bomber a billion-dollar",
+   "from": 1941,
+   "to": 1960,
+   "length": 18,
+   "years": [
+    1941,
+    1946,
+    1948,
+    1949,
+    1950,
+    1951,
+    1954,
+    1959
+   ],
+   "events": [
+    {
+     "year": 1941,
+     "text": "1941: Requirement\n& contract"
+    },
+    {
+     "year": 1946,
+     "text": "1946: XB-36\nfirst flight\n8 August"
+    },
+    {
+     "year": 1948,
+     "text": "1948: First B-36A\ndelivered, June"
+    },
+    {
+     "year": 1949,
+     "text": "1949: B-36D\nten engines"
+    },
+    {
+     "year": 1950,
+     "text": "1950: Broken Arrow\n13 February"
+    },
+    {
+     "year": 1951,
+     "text": "1951: RB-36\nArctic patrols"
+    },
+    {
+     "year": 1954,
+     "text": "1954: Featherweight\nstripped for altitude"
+    },
+    {
+     "year": 1959,
+     "text": "1959: Last B-36\nretires, 12 Feb"
+    }
+   ],
+   "photos": [
+    {
+     "file": "media/photos/b36b-flight-1949.jpg",
+     "year": 1949,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36B in flight, 1949",
+     "bw": true
+    },
+    {
+     "file": "media/photos/rb36d-1952.jpg",
+     "year": 1952,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "RB-36D, 1952",
+     "bw": true
+    },
+    {
+     "file": "media/photos/b36f-pair-1955.jpg",
+     "year": 1955,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36Fs, 1955",
+     "bw": true
+    }
+   ],
+   "notes": [
+    {
+     "year": 1949,
+     "text": "Oct 1949:\nRevolt of the\nAdmirals",
+     "y": -1.15,
+     "at": 0.5
+    },
+    {
+     "year": 1959,
+     "text": "30 Apr 1959:\nlast flight\nto Dayton",
+     "y": -1.15
+    }
+   ],
+   "docs": [
+    {
+     "year": 1941,
+     "y": -1.35,
+     "kind": "drawing",
+     "icon": "bomber",
+     "w": 1.4
+    }
+   ],
+   "clips": [
+    {
+     "year": 1946,
+     "y": -1.1
+    }
+   ],
+   "camera": {
+    "from": {
+     "year": 1948,
+     "y": 0.3,
+     "dist": 4.5,
+     "yaw": 6
+    },
+    "to": {
+     "year": 1950,
+     "y": 0.3,
+     "dist": 4.3,
+     "yaw": 8
+    }
+   }
+  },
+  {
+   "id": "s109",
+   "start": 465.46,
+   "end": 469.42,
+   "type": "archival",
+   "section": "IN SERVICE",
+   "w0": 1160,
+   "w1": 1166,
+   "text": "blunder. The hearings ran through October 1949,",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 150
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s110",
+   "start": 469.42,
+   "end": 473.66,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1167,
+   "w1": 1175,
+   "text": "and the Chief of Naval Operations, Admiral Louis Denfeld,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 155,
+     "el": 8,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 145,
+     "el": 9,
+     "dist": 1.45
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s111",
+   "start": 473.66,
+   "end": 476.75,
+   "type": "hangar",
+   "section": "IN SERVICE",
+   "w0": 1176,
+   "w1": 1183,
+   "text": "lost his job for speaking against the decision.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 300,
+     "el": 7,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 310,
+     "el": 8,
+     "dist": 1.45
+    }
+   }
+  },
+  {
+   "id": "s112",
+   "start": 476.75,
+   "end": 481.82,
+   "type": "hangar",
+   "section": "IN SERVICE",
+   "w0": 1184,
+   "w1": 1193,
+   "text": "The Air Force won the argument, and the B-36 stayed.",
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   },
+   "aircraft": [
+    "b36"
+   ]
+  },
+  {
+   "id": "s113",
+   "start": 481.82,
+   "end": 487.16,
+   "type": "archival",
+   "section": "IN SERVICE",
+   "w0": 1194,
+   "w1": 1205,
+   "text": "More than a third of all B-36s were built as RB-36 reconnaissance",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 570
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s114",
+   "start": 487.16,
+   "end": 491.96,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1206,
+   "w1": 1216,
+   "text": "aircraft, carrying a crew of 22 and up to 23 cameras.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 30,
+     "el": 4,
+     "dist": 1.8
+    },
+    "to": {
+     "az": 40,
+     "el": 5,
+     "dist": 1.6
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s115",
+   "start": 491.96,
+   "end": 496.28,
+   "type": "map",
+   "section": "IN SERVICE",
+   "w0": 1217,
+   "w1": 1226,
+   "text": "From 1951 they probed the edges of the Soviet Arctic,",
+   "style": "paper",
+   "bounds": [
+    -20,
+    48,
+    60,
+    78
+   ],
+   "view": {
+    "from": {
+     "center": [
+      15,
+      64
+     ],
+     "width_km": 2600,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      20,
+      68
+     ],
+     "width_km": 2000,
+     "tilt": 10
+    }
+   },
+   "cities": [
+    {
+     "name": "RAF Sculthorpe",
+     "lon": 0.76,
+     "lat": 52.84
+    }
+   ],
+   "routes": [
+    {
+     "from": [
+      0.76,
+      52.84
+     ],
+     "to": [
+      38.0,
+      72.5
+     ],
+     "arc": 0.15,
+     "icon": "bomber",
+     "style": "solid",
+     "ahead": "dashed",
+     "draw": [
+      0.3,
+      3.8
+     ],
+     "label": "To the Soviet Arctic",
+     "labelAt": [
+      12,
+      64
+     ]
+    }
+   ],
+   "seas": [
+    {
+     "name": "Barents Sea",
+     "lon": 40,
+     "lat": 74,
+     "size": 0.9
+    }
+   ],
+   "focus": [
+    "Norway",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "s116",
+   "start": 496.28,
+   "end": 500.82,
+   "type": "archival",
+   "section": "IN SERVICE",
+   "w0": 1227,
+   "w1": 1239,
+   "text": "flying from England and Japan at altitudes no fighter of the day could",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 685
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s117",
+   "start": 500.82,
+   "end": 504.19,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1240,
+   "w1": 1246,
+   "text": "reach. The bomber also had its disasters.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 95,
+     "el": 2,
+     "dist": 2.2
+    },
+    "to": {
+     "az": 88,
+     "el": 3,
+     "dist": 2.0
+    }
+   },
+   "world": {
+    "ground": "farmland",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s118",
+   "start": 504.19,
+   "end": 509.04,
+   "type": "timeline",
+   "section": "IN SERVICE",
+   "w0": 1247,
+   "w1": 1252,
+   "text": "On 13 February 1950, a B-36B",
+   "from": 1941,
+   "to": 1960,
+   "length": 18,
+   "years": [
+    1941,
+    1946,
+    1948,
+    1949,
+    1950,
+    1951,
+    1954,
+    1959
+   ],
+   "events": [
+    {
+     "year": 1941,
+     "text": "1941: Requirement\n& contract"
+    },
+    {
+     "year": 1946,
+     "text": "1946: XB-36\nfirst flight\n8 August"
+    },
+    {
+     "year": 1948,
+     "text": "1948: First B-36A\ndelivered, June"
+    },
+    {
+     "year": 1949,
+     "text": "1949: B-36D\nten engines"
+    },
+    {
+     "year": 1950,
+     "text": "1950: Broken Arrow\n13 February"
+    },
+    {
+     "year": 1951,
+     "text": "1951: RB-36\nArctic patrols"
+    },
+    {
+     "year": 1954,
+     "text": "1954: Featherweight\nstripped for altitude"
+    },
+    {
+     "year": 1959,
+     "text": "1959: Last B-36\nretires, 12 Feb"
+    }
+   ],
+   "photos": [
+    {
+     "file": "media/photos/b36b-flight-1949.jpg",
+     "year": 1949,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36B in flight, 1949",
+     "bw": true
+    },
+    {
+     "file": "media/photos/rb36d-1952.jpg",
+     "year": 1952,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "RB-36D, 1952",
+     "bw": true
+    },
+    {
+     "file": "media/photos/b36f-pair-1955.jpg",
+     "year": 1955,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36Fs, 1955",
+     "bw": true
+    }
+   ],
+   "notes": [
+    {
+     "year": 1949,
+     "text": "Oct 1949:\nRevolt of the\nAdmirals",
+     "y": -1.15
+    },
+    {
+     "year": 1959,
+     "text": "30 Apr 1959:\nlast flight\nto Dayton",
+     "y": -1.15
+    }
+   ],
+   "docs": [
+    {
+     "year": 1941,
+     "y": -1.35,
+     "kind": "drawing",
+     "icon": "bomber",
+     "w": 1.4
+    }
+   ],
+   "clips": [
+    {
+     "year": 1946,
+     "y": -1.1
+    }
+   ],
+   "camera": {
+    "from": {
+     "year": 1949,
+     "y": 0.3,
+     "dist": 4.5,
+     "yaw": -6
+    },
+    "to": {
+     "year": 1951,
+     "y": 0.3,
+     "dist": 4.3,
+     "yaw": -8
+    }
+   }
+  },
+  {
+   "id": "s119",
+   "start": 509.04,
+   "end": 513.78,
+   "type": "map",
+   "section": "IN SERVICE",
+   "w0": 1253,
+   "w1": 1266,
+   "text": "flying a simulated strike from Alaska ran into trouble when three of its engines",
+   "style": "paper",
+   "bounds": [
+    -175,
+    25,
+    -80,
+    75
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -130,
+      52
+     ],
+     "width_km": 4200,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -128,
+      54
+     ],
+     "width_km": 3200,
+     "tilt": 8
+    }
+   },
+   "cities": [
+    {
+     "name": "Eielson AFB",
+     "lon": -147.1,
+     "lat": 64.66
+    },
+    {
+     "name": "Fort Worth",
+     "lon": -97.44,
+     "lat": 32.77
+    }
+   ],
+   "routes": [
+    {
+     "from": [
+      -147.1,
+      64.66
+     ],
+     "to": [
+      -97.44,
+      32.77
+     ],
+     "arc": 0.1,
+     "icon": "bomber",
+     "style": "solid",
+     "draw": [
+      0.3,
+      4.2
+     ]
+    }
+   ],
+   "markers": [
+    {
+     "lon": -128.83,
+     "lat": 52.97,
+     "kind": "dot",
+     "at": 3.5
+    },
+    {
+     "lon": -128.62,
+     "lat": 56.0243,
+     "kind": "x",
+     "at": 4.2
+    }
+   ],
+   "focus": [
+    "United States",
+    "Canada"
+   ]
+  },
+  {
+   "id": "s120",
+   "start": 513.78,
+   "end": 518.35,
+   "type": "archival",
+   "section": "IN SERVICE",
+   "w0": 1267,
+   "w1": 1278,
+   "text": "caught fire. The crew jettisoned its Mark 4 bomb over the Pacific,",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 622
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s121",
+   "start": 518.35,
+   "end": 522.55,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1279,
+   "w1": 1290,
+   "text": "where it detonated, and bailed out over the coast of British Columbia.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 210,
+     "el": 18,
+     "dist": 1.5
+    },
+    "to": {
+     "az": 200,
+     "el": 16,
+     "dist": 1.4
+    }
+   },
+   "world": {
+    "ground": "mountains",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s122",
+   "start": 522.55,
+   "end": 530.02,
+   "type": "map",
+   "section": "IN SERVICE",
+   "w0": 1291,
+   "w1": 1305,
+   "text": "Twelve of the 17 men survived. Five were lost, including the weaponeer, Captain Theodore Schreier.",
+   "style": "paper",
+   "bounds": [
+    -140,
+    46,
+    -115,
+    62
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -128.7,
+      54.5
+     ],
+     "width_km": 900,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -128.7,
+      54.5
+     ],
+     "width_km": 700,
+     "tilt": 10
+    }
+   },
+   "cities": [],
+   "routes": [],
+   "markers": [
+    {
+     "lon": -128.83,
+     "lat": 52.97,
+     "kind": "dot",
+     "at": 0.3
+    },
+    {
+     "lon": -128.62,
+     "lat": 56.0243,
+     "kind": "x",
+     "at": 1.0
+    }
+   ],
+   "focus": [
+    "Canada"
+   ]
+  },
+  {
+   "id": "s123",
+   "start": 530.02,
+   "end": 534.52,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1306,
+   "w1": 1317,
+   "text": "The empty bomber flew on for about 200 miles and crashed into",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "distant",
+    "from": {
+     "az": 100,
+     "el": 4,
+     "dist": 3.0,
+     "fov": 9
+    },
+    "to": {
+     "az": 95,
+     "el": 5,
+     "dist": 2.9,
+     "fov": 9
+    }
+   },
+   "world": {
+    "ground": "mountains",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s124",
+   "start": 534.52,
+   "end": 539.28,
+   "type": "hangar",
+   "section": "IN SERVICE",
+   "w0": 1318,
+   "w1": 1330,
+   "text": "Mount Kologet. It was the first time America had ever lost a nuclear",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   }
+  },
+  {
+   "id": "s125",
+   "start": 539.28,
+   "end": 544.02,
+   "type": "timeline",
+   "section": "IN SERVICE",
+   "w0": 1331,
+   "w1": 1338,
+   "text": "weapon. In 1954, the Air Force stripped the",
+   "from": 1941,
+   "to": 1960,
+   "length": 18,
+   "years": [
+    1941,
+    1946,
+    1948,
+    1949,
+    1950,
+    1951,
+    1954,
+    1959
+   ],
+   "events": [
+    {
+     "year": 1941,
+     "text": "1941: Requirement\n& contract"
+    },
+    {
+     "year": 1946,
+     "text": "1946: XB-36\nfirst flight\n8 August"
+    },
+    {
+     "year": 1948,
+     "text": "1948: First B-36A\ndelivered, June"
+    },
+    {
+     "year": 1949,
+     "text": "1949: B-36D\nten engines"
+    },
+    {
+     "year": 1950,
+     "text": "1950: Broken Arrow\n13 February"
+    },
+    {
+     "year": 1951,
+     "text": "1951: RB-36\nArctic patrols"
+    },
+    {
+     "year": 1954,
+     "text": "1954: Featherweight\nstripped for altitude"
+    },
+    {
+     "year": 1959,
+     "text": "1959: Last B-36\nretires, 12 Feb"
+    }
+   ],
+   "photos": [
+    {
+     "file": "media/photos/b36b-flight-1949.jpg",
+     "year": 1949,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36B in flight, 1949",
+     "bw": true
+    },
+    {
+     "file": "media/photos/rb36d-1952.jpg",
+     "year": 1952,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "RB-36D, 1952",
+     "bw": true
+    },
+    {
+     "file": "media/photos/b36f-pair-1955.jpg",
+     "year": 1955,
+     "y": 1.05,
+     "w": 1.2,
+     "label": "B-36Fs, 1955",
+     "bw": true
+    }
+   ],
+   "notes": [
+    {
+     "year": 1949,
+     "text": "Oct 1949:\nRevolt of the\nAdmirals",
+     "y": -1.15
+    },
+    {
+     "year": 1959,
+     "text": "30 Apr 1959:\nlast flight\nto Dayton",
+     "y": -1.15
+    }
+   ],
+   "docs": [
+    {
+     "year": 1941,
+     "y": -1.35,
+     "kind": "drawing",
+     "icon": "bomber",
+     "w": 1.4
+    }
+   ],
+   "clips": [
+    {
+     "year": 1946,
+     "y": -1.1
+    }
+   ],
+   "camera": {
+    "from": {
+     "year": 1953,
+     "y": 0.3,
+     "dist": 4.5,
+     "yaw": 8
+    },
+    "to": {
+     "year": 1955,
+     "y": 0.3,
+     "dist": 4.3,
+     "yaw": 5
+    }
+   }
+  },
+  {
+   "id": "s126",
+   "start": 544.02,
+   "end": 547.93,
+   "type": "archival",
+   "section": "IN SERVICE",
+   "w0": 1339,
+   "w1": 1349,
+   "text": "guns and armor from the surviving bombers in the Featherweight program,",
+   "media": {
+    "file": "media/footage/target-peace-1949.mp4",
+    "in": 665
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s127",
+   "start": 547.93,
+   "end": 552.34,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1350,
+   "w1": 1360,
+   "text": "trading protection for altitude. But the jet age was already here.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 120,
+     "el": -12,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 110,
+     "el": -10,
+     "dist": 1.5
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s128",
+   "start": 552.34,
+   "end": 559.52,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1361,
+   "w1": 1374,
+   "text": "The B-47 and the B-52 were faster, and the B-36, designed before the war,",
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 95,
+     "el": 2,
+     "dist": 2.2
+    },
+    "to": {
+     "az": 88,
+     "el": 3,
+     "dist": 2.0
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "aircraft": [
+    "b36"
+   ]
+  },
+  {
+   "id": "s129",
+   "start": 559.52,
+   "end": 560.87,
+   "type": "flight",
+   "section": "IN SERVICE",
+   "w0": 1375,
+   "w1": 1379,
+   "text": "was running out of time.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 155,
+     "el": 8,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 145,
+     "el": 9,
+     "dist": 1.45
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s130",
+   "start": 560.87,
+   "end": 565.8,
+   "type": "flight",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1380,
+   "w1": 1389,
+   "text": "The last B-36 in service retired on 12 February 1959,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 30,
+     "el": 4,
+     "dist": 1.8
+    },
+    "to": {
+     "az": 40,
+     "el": 5,
+     "dist": 1.6
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dissolve"
+  },
+  {
+   "id": "s131",
+   "start": 565.8,
+   "end": 569.09,
+   "type": "hangar",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1390,
+   "w1": 1396,
+   "text": "after ten years with Strategic Air Command.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 92,
+     "el": 4,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 82,
+     "el": 6,
+     "dist": 1.1
+    }
+   }
+  },
+  {
+   "id": "s132",
+   "start": 569.09,
+   "end": 572.12,
+   "type": "flight",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1397,
+   "w1": 1405,
+   "text": "The last flight of all came two months later,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 95,
+     "el": 2,
+     "dist": 2.2
+    },
+    "to": {
+     "az": 88,
+     "el": 3,
+     "dist": 2.0
+    }
+   },
+   "world": {
+    "ground": "mountains",
+    "time": "morning"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s133",
+   "start": 572.12,
+   "end": 576.56,
+   "type": "map",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1406,
+   "w1": 1416,
+   "text": "when a B-36J flew from its desert storage in Arizona to",
+   "style": "paper",
+   "bounds": [
+    -125,
+    24,
+    -66,
+    50
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -100,
+      36
+     ],
+     "width_km": 2800,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -97,
+      38
+     ],
+     "width_km": 2200,
+     "tilt": 8
+    }
+   },
+   "cities": [
+    {
+     "name": "Davis-Monthan AFB",
+     "lon": -110.88,
+     "lat": 32.17
+    },
+    {
+     "name": "Dayton",
+     "lon": -84.11,
+     "lat": 39.76
+    }
+   ],
+   "routes": [
+    {
+     "from": [
+      -110.88,
+      32.17
+     ],
+     "to": [
+      -84.11,
+      39.76
+     ],
+     "arc": 0.1,
+     "icon": "bomber",
+     "style": "solid",
+     "draw": [
+      0.3,
+      3.5
+     ],
+     "label": "Last flight, 30 April 1959",
+     "labelAt": [
+      -98,
+      36
+     ]
+    }
+   ],
+   "focus": [
+    "United States"
+   ]
+  },
+  {
+   "id": "s134",
+   "start": 576.56,
+   "end": 580.02,
+   "type": "flight",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1417,
+   "w1": 1427,
+   "text": "the National Museum of the United States Air Force in Dayton,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 210,
+     "el": 18,
+     "dist": 1.5
+    },
+    "to": {
+     "az": 200,
+     "el": 16,
+     "dist": 1.4
+    }
+   },
+   "world": {
+    "ground": "farmland",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s135",
+   "start": 580.02,
+   "end": 584.76,
+   "type": "hangar",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1428,
+   "w1": 1439,
+   "text": "Ohio. Most of the fleet was cut up for scrap at Davis-Monthan",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 60,
+     "el": 50,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 75,
+     "el": 54,
+     "dist": 1.0
+    }
+   }
+  },
+  {
+   "id": "s136",
+   "start": 584.76,
+   "end": 588.56,
+   "type": "flight",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1440,
+   "w1": 1446,
+   "text": "Air Force Base. Four complete aircraft survive.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "distant",
+    "from": {
+     "az": 100,
+     "el": 4,
+     "dist": 3.0,
+     "fov": 9
+    },
+    "to": {
+     "az": 95,
+     "el": 5,
+     "dist": 2.9,
+     "fov": 9
+    }
+   },
+   "world": {
+    "ground": "hills",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s137",
+   "start": 588.56,
+   "end": 592.14,
+   "type": "map",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1447,
+   "w1": 1454,
+   "text": "One stands in Dayton, one in Tucson, Arizona,",
+   "style": "paper",
+   "bounds": [
+    -125,
+    24,
+    -66,
+    50
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -97,
+      38
+     ],
+     "width_km": 3200,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -97,
+      38
+     ],
+     "width_km": 2600,
+     "tilt": 8
+    }
+   },
+   "cities": [
+    {
+     "name": "Dayton",
+     "lon": -84.11,
+     "lat": 39.76
+    },
+    {
+     "name": "Tucson",
+     "lon": -110.97,
+     "lat": 32.22
+    },
+    {
+     "name": "Ashland",
+     "lon": -96.37,
+     "lat": 41.04
+    },
+    {
+     "name": "Atwater",
+     "lon": -120.6,
+     "lat": 37.35
+    }
+   ],
+   "markers": [
+    {
+     "lon": -84.11,
+     "lat": 39.76,
+     "kind": "dot",
+     "at": 0.3
+    },
+    {
+     "lon": -110.97,
+     "lat": 32.22,
+     "kind": "dot",
+     "at": 2.0
+    }
+   ],
+   "focus": [
+    "United States"
+   ]
+  },
+  {
+   "id": "s138",
+   "start": 592.14,
+   "end": 596.39,
+   "type": "map",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1455,
+   "w1": 1462,
+   "text": "one in Ashland, Nebraska, and one in Atwater,",
+   "style": "paper",
+   "bounds": [
+    -125,
+    24,
+    -66,
+    50
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -100,
+      38
+     ],
+     "width_km": 2600,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -108,
+      37
+     ],
+     "width_km": 1800,
+     "tilt": 8
+    }
+   },
+   "cities": [
+    {
+     "name": "Dayton",
+     "lon": -84.11,
+     "lat": 39.76
+    },
+    {
+     "name": "Tucson",
+     "lon": -110.97,
+     "lat": 32.22
+    },
+    {
+     "name": "Ashland",
+     "lon": -96.37,
+     "lat": 41.04
+    },
+    {
+     "name": "Atwater",
+     "lon": -120.6,
+     "lat": 37.35
+    }
+   ],
+   "markers": [
+    {
+     "lon": -96.37,
+     "lat": 41.04,
+     "kind": "dot",
+     "at": 0.5
+    },
+    {
+     "lon": -120.6,
+     "lat": 37.35,
+     "kind": "dot",
+     "at": 2.5
+    }
+   ],
+   "focus": [
+    "United States"
+   ]
+  },
+  {
+   "id": "s139",
+   "start": 596.39,
+   "end": 599.71,
+   "type": "map",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1463,
+   "w1": 1468,
+   "text": "California, the only reconnaissance version left.",
+   "style": "paper",
+   "bounds": [
+    -125,
+    24,
+    -66,
+    50
+   ],
+   "view": {
+    "from": {
+     "center": [
+      -108,
+      37
+     ],
+     "width_km": 1800,
+     "tilt": 0
+    },
+    "to": {
+     "center": [
+      -120.6,
+      37.35
+     ],
+     "width_km": 800,
+     "tilt": 10
+    }
+   },
+   "cities": [
+    {
+     "name": "Dayton",
+     "lon": -84.11,
+     "lat": 39.76
+    },
+    {
+     "name": "Tucson",
+     "lon": -110.97,
+     "lat": 32.22
+    },
+    {
+     "name": "Ashland",
+     "lon": -96.37,
+     "lat": 41.04
+    },
+    {
+     "name": "Atwater",
+     "lon": -120.6,
+     "lat": 37.35
+    }
+   ],
+   "markers": [
+    {
+     "lon": -120.6,
+     "lat": 37.35,
+     "kind": "dot",
+     "at": 0.2
+    }
+   ],
+   "focus": [
+    "United States"
+   ]
+  },
+  {
+   "id": "s140",
+   "start": 599.71,
+   "end": 602.69,
+   "type": "flight",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1469,
+   "w1": 1474,
+   "text": "The B-36 never flew in combat.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 155,
+     "el": 8,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 145,
+     "el": 9,
+     "dist": 1.45
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s141",
+   "start": 602.69,
+   "end": 607.4,
+   "type": "studio",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1475,
+   "w1": 1487,
+   "text": "It never dropped a bomb in anger. It spent its whole career waiting",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 300,
+     "el": 7,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 310,
+     "el": 8,
+     "dist": 1.45
+    }
+   }
+  },
+  {
+   "id": "s142",
+   "start": 607.4,
+   "end": 608.86,
+   "type": "flight",
+   "section": "WHERE IT ENDED UP",
+   "w0": 1488,
+   "w1": 1493,
+   "text": "for a war that never came.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 30,
+     "el": 4,
+     "dist": 1.8
+    },
+    "to": {
+     "az": 40,
+     "el": 5,
+     "dist": 1.6
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s143",
+   "start": 608.86,
+   "end": 612.49,
+   "type": "hangar",
+   "section": "THE ANSWER",
+   "w0": 1494,
+   "w1": 1502,
+   "text": "So here is why the B-36 needed ten engines.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 9,
+     "dist": 1.1
+    },
+    "to": {
+     "az": 48,
+     "el": 11,
+     "dist": 1.02
+    }
+   }
+  },
+  {
+   "id": "s144",
+   "start": 612.49,
+   "end": 617.2,
+   "type": "flight",
+   "section": "THE ANSWER",
+   "w0": 1503,
+   "w1": 1517,
+   "text": "Because the mission demanded a weight no six engines could lift at the speed the",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 95,
+     "el": 2,
+     "dist": 2.2
+    },
+    "to": {
+     "az": 88,
+     "el": 3,
+     "dist": 2.0
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s145",
+   "start": 617.2,
+   "end": 620.5,
+   "type": "studio",
+   "section": "THE ANSWER",
+   "w0": 1518,
+   "w1": 1524,
+   "text": "jet age required. The range demanded fuel,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 0,
+     "el": 3,
+     "dist": 1.35,
+     "fov": 32
+    },
+    "to": {
+     "az": 0,
+     "el": 3.5,
+     "dist": 1.25,
+     "fov": 32
+    }
+   }
+  },
+  {
+   "id": "s146",
+   "start": 620.5,
+   "end": 624.0,
+   "type": "flight",
+   "section": "THE ANSWER",
+   "w0": 1525,
+   "w1": 1533,
+   "text": "and the fuel demanded a wing 230 feet across,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 60,
+     "el": 45,
+     "dist": 1.7
+    },
+    "to": {
+     "az": 50,
+     "el": 50,
+     "dist": 1.6
+    }
+   },
+   "world": {
+    "ground": "mountains",
+    "time": "morning"
+   },
+   "overlays": [],
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s147",
+   "start": 624.0,
+   "end": 628.32,
+   "type": "hangar",
+   "section": "THE ANSWER",
+   "w0": 1534,
+   "w1": 1543,
+   "text": "and the wing demanded power. Six piston engines gave the",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 35,
+     "el": 6,
+     "dist": 0.45,
+     "target": "engine2"
+    },
+    "to": {
+     "az": 48,
+     "el": 8,
+     "dist": 0.4,
+     "target": "engine2"
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s148",
+   "start": 628.32,
+   "end": 632.54,
+   "type": "flight",
+   "section": "THE ANSWER",
+   "w0": 1544,
+   "w1": 1556,
+   "text": "bomber its endurance. They could carry it across an ocean and keep it",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "distant",
+    "from": {
+     "az": 100,
+     "el": 4,
+     "dist": 3.0,
+     "fov": 9
+    },
+    "to": {
+     "az": 95,
+     "el": 5,
+     "dist": 2.9,
+     "fov": 9
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s149",
+   "start": 632.54,
+   "end": 636.92,
+   "type": "studio",
+   "section": "THE ANSWER",
+   "w0": 1557,
+   "w1": 1571,
+   "text": "there for 40 hours. But they could not get that weight off the ground quickly,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 145,
+     "el": 24,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 160,
+     "el": 27,
+     "dist": 1.0
+    }
+   }
+  },
+  {
+   "id": "s150",
+   "start": 636.92,
+   "end": 641.22,
+   "type": "flight",
+   "section": "THE ANSWER",
+   "w0": 1572,
+   "w1": 1587,
+   "text": "they could not climb it fast, and they could not push it over a defended target",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 120,
+     "el": -12,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 110,
+     "el": -10,
+     "dist": 1.5
+    }
+   },
+   "world": {
+    "ground": "mountains",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 140,
+    "bank": 5,
+    "climb": 6
+   }
+  },
+  {
+   "id": "s151",
+   "start": 641.22,
+   "end": 645.16,
+   "type": "hangar",
+   "section": "THE ANSWER",
+   "w0": 1588,
+   "w1": 1596,
+   "text": "at 381 knots. Four jets could do all three,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 60,
+     "el": 50,
+     "dist": 1.05
+    },
+    "to": {
+     "az": 75,
+     "el": 54,
+     "dist": 1.0
+    }
+   },
+   "overlays": [
+    {
+     "type": "stat",
+     "value": 381.0,
+     "unit": "kn",
+     "icon": "speed",
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "s152",
+   "start": 645.16,
+   "end": 648.96,
+   "type": "flight",
+   "section": "THE ANSWER",
+   "w0": 1597,
+   "w1": 1607,
+   "text": "for a few minutes at a time. It was not elegance.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 155,
+     "el": 8,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 145,
+     "el": 9,
+     "dist": 1.45
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s153",
+   "start": 648.96,
+   "end": 653.46,
+   "type": "studio",
+   "section": "THE ANSWER",
+   "w0": 1608,
+   "w1": 1616,
+   "text": "It was arithmetic. Six engines for the long cruise,",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "from": {
+     "az": 230,
+     "el": 14,
+     "dist": 1.15
+    },
+    "to": {
+     "az": 215,
+     "el": 16,
+     "dist": 1.08
+    }
+   },
+   "overlays": [
+    {
+     "type": "highlight",
+     "parts": [
+      "nacelle"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "s154",
+   "start": 653.46,
+   "end": 657.87,
+   "type": "flight",
+   "section": "THE ANSWER",
+   "w0": 1617,
+   "w1": 1630,
+   "text": "four engines for the hard moments, and a slogan that told the whole story.",
+   "aircraft": [
+    "b36"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 30,
+     "el": 4,
+     "dist": 1.8
+    },
+    "to": {
+     "az": 40,
+     "el": 5,
+     "dist": 1.6
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 100,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s155",
+   "start": 657.87,
+   "end": 659.76,
+   "type": "archival",
+   "section": "THE ANSWER",
+   "w0": 1631,
+   "w1": 1634,
+   "text": "Six turning, four burning.",
+   "media": {
+    "file": "media/photos/b36j-six-turning.jpg",
+    "kenburns": {
+     "from": [
+      0.5,
+      0.5,
+      1.0
+     ],
+     "to": [
+      0.5,
+      0.45,
+      1.08
+     ]
+    }
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s156",
+   "start": 659.76,
+   "end": 664.5,
+   "type": "flight",
+   "section": "NEXT",
+   "w0": 1635,
+   "w1": 1648,
+   "text": "The B-36 held the line for ten years, until a bomber arrived that did",
+   "aircraft": [
+    "b52"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 95,
+     "el": 2,
+     "dist": 2.2
+    },
+    "to": {
+     "az": 88,
+     "el": 3,
+     "dist": 2.0
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "day"
+   },
+   "motion": {
+    "speed": 180,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dip"
+  },
+  {
+   "id": "s157",
+   "start": 664.5,
+   "end": 668.04,
+   "type": "flight",
+   "section": "NEXT",
+   "w0": 1649,
+   "w1": 1659,
+   "text": "the same job with eight jets and no propellers at all.",
+   "aircraft": [
+    "b52"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 210,
+     "el": 18,
+     "dist": 1.5
+    },
+    "to": {
+     "az": 200,
+     "el": 16,
+     "dist": 1.4
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 180,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dissolve"
+  },
+  {
+   "id": "s158",
+   "start": 668.04,
+   "end": 671.32,
+   "type": "flight",
+   "section": "NEXT",
+   "w0": 1660,
+   "w1": 1665,
+   "text": "The Boeing B-52 Stratofortress replaced it,",
+   "aircraft": [
+    "b52"
+   ],
+   "camera": {
+    "mode": "distant",
+    "from": {
+     "az": 100,
+     "el": 4,
+     "dist": 3.0,
+     "fov": 9
+    },
+    "to": {
+     "az": 95,
+     "el": 5,
+     "dist": 2.9,
+     "fov": 9
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 180,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s159",
+   "start": 671.32,
+   "end": 675.09,
+   "type": "flight",
+   "section": "NEXT",
+   "w0": 1666,
+   "w1": 1674,
+   "text": "and then it did something the B-36 never managed.",
+   "aircraft": [
+    "b52"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 120,
+     "el": -12,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 110,
+     "el": -10,
+     "dist": 1.5
+    }
+   },
+   "world": {
+    "ground": "ocean",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 180,
+    "bank": 4,
+    "weave": 5
+   }
+  },
+  {
+   "id": "s160",
+   "start": 675.09,
+   "end": 682.18,
+   "type": "flight",
+   "section": "NEXT",
+   "w0": 1675,
+   "w1": 1689,
+   "text": "It stayed. Find out why by watching our video on the Boeing B-52 Stratofortress now.",
+   "aircraft": [
+    "b52"
+   ],
+   "camera": {
+    "mode": "chase",
+    "from": {
+     "az": 155,
+     "el": 8,
+     "dist": 1.6
+    },
+    "to": {
+     "az": 145,
+     "el": 9,
+     "dist": 1.45
+    }
+   },
+   "world": {
+    "ground": "clouds",
+    "time": "sunset"
+   },
+   "motion": {
+    "speed": 180,
+    "bank": 4,
+    "weave": 5
+   },
+   "in": "dissolve"
+  }
+ ]
+}

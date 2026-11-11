@@ -1,0 +1,11 @@
+{
+  "name": "hangar-studio-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "aiTrends Hangar Studio: Three.js aircraft-explainer scenes (white hangar, flight, maps, boards, desk, cockpit) rendered frame by frame in headless Chromium",
+  "dependencies": {
+    "playwright": "1.56.0",
+    "three": "0.169.0"
+  }
+}

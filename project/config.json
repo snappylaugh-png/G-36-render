@@ -1,0 +1,15 @@
+{
+  "title": "Why Did the B-36 Need Ten Engines?",
+  "size": "1920x1080",
+  "fps": 30,
+  "brand": {
+    "name": "",
+    "nameMode": "none",
+    "logo": "media/brand/logo.png",
+    "banner": "none"
+  },
+  "voiceover": "audio/voice.wav",
+  "plan": "plan/shots.json",
+  "quality": "standard",
+  "loudness": -16
+}
