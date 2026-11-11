@@ -1,0 +1,49 @@
+name: Render smoke test (one B-36 part)
+on:
+  push:
+    paths:
+      - '.github/workflows/render-smoke.yml'
+permissions:
+  contents: write
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore binary files
+        run: |
+          for f in engine/fonts/*.woff2.b64 project/media/brand/*.png.b64 project/media/photos/*.jpg.b64; do
+            [ -e "$f" ] || continue
+            base64 -d "$f" > "${f%.b64}" && rm "$f"
+          done
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install engine dependencies
+        working-directory: engine
+        run: npm ci
+      - name: Install Chromium
+        working-directory: engine
+        run: npx playwright install --with-deps chromium
+      - name: Render part 38
+        working-directory: engine
+        run: node render.mjs --project ../project --parts 38-38
+      - name: Upload part (backup)
+        uses: actions/upload-artifact@v4
+        with:
+          name: part-0038
+          path: project/build/parts_gh/
+          if-no-files-found: error
+      - name: Push part to branch parts-38-38
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp project/build/parts_gh/part_0038.mp4 /tmp/part_0038.mp4
+          git fetch origin parts-38-38 || true
+          git checkout parts-38-38 2>/dev/null || git checkout --orphan parts-38-38
+          git rm -rf . >/dev/null 2>&1 || true
+          cp /tmp/part_0038.mp4 .
+          git add part_0038.mp4
+          git commit -m "B-36 part 0038 (smoke test)" || echo "nothing to commit"
+          git push origin parts-38-38
